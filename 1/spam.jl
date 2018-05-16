@@ -1,0 +1,1 @@
+println(uppercase(readline(STDIN)))
